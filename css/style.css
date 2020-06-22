@@ -1,4 +1,3 @@
-/*font-family: 'Dosis', sans-serif;*/
 body{
 	margin:0;
 	padding:0;
@@ -63,11 +62,11 @@ body{
 /*Header end*/
 /*develop start*/
 .develop{
-	width:70%;
+	width:65%;
 	float:left;
 }
 .develop h1{
-	font-size:60px;
+	font-size:50px;
 }
 .develop h1 span{
 	font-weight:normal;
@@ -76,7 +75,7 @@ body{
 	font-size:18px;
 }
 .develop1{
-	width:22%;
+	width:30%;
 	float:right;
 	margin-top:75px;
 }
@@ -89,7 +88,7 @@ body{
 	background-color:#FAFAFA;
 }
 .branding{
-	width:22%;
+	width:30%;
 	float:left;
 	margin-top:75px;
 }
@@ -97,11 +96,11 @@ body{
 	width:100%;
 }
 .branding1{
-	width:70%;
+	width:65%;
 	float:right;
 }
 .branding1 h1{
-	font-size: 60px;
+	font-size: 50px;
 }
 .branding1 h1 span{
 	font-weight:normal;
@@ -124,20 +123,20 @@ body{
 	width: 20%;
 }
 .service1 i{
-	font-size:40px;
-	width:40px;
-	height:40px;
+	font-size:30px;
+	width:30px;
+	height:30px;
 	color:white;
 	background-color:black;
 	text-align:center;
-	line-height:40px;
+	line-height:30px;
 	border-radius:50%;
 	float:left;
 	margin-top:20px;
 	padding:15px;
 }
 .Service2{
-	width: 80%;
+	width: 75%;
 	float:right;
 }
 .Service2 h2{
@@ -152,7 +151,7 @@ body{
 	text-align: center;
 }
 .comment h1{
-	font-size: 60px;
+	font-size: 50px;
 	margin-bottom:0;
 	
 }
@@ -160,7 +159,7 @@ body{
 	font-weight:normal;
 }
 .comment p{
-	font-size:22px;
+	font-size:18px;
 	margin-top:0;
 	margin-bottom: 40px;
 }
@@ -252,7 +251,7 @@ body{
 	color:white;
 }
 .team0 h1{
-	font-size: 60px;
+	font-size: 50px;
 	margin-bottom:0;
 	
 }
@@ -260,9 +259,9 @@ body{
 	font-weight:normal;
 }
 .team0 p{
-	font-size:22px;
+	font-size:18px;
 	margin-top:0;
-	margin-bottom:0;
+	margin-bottom:40px;
 }
 .team1{
 	width:33%;
@@ -302,8 +301,9 @@ body{
 	background-color:#7690C5;
 }
 .footer0{
-	width:50%;
+	width:55%;
 	float:left;
+	overflow: hidden;
 }
 .footer1{
 	color:white;
@@ -323,9 +323,9 @@ body{
 	overflow: hidden;
 }
 .footer2 i{
-	width: 45%;
+	width: 50%;
 	font-size: 100%;
-	margin:10px;
+	margin:10px 0;
 	float: left;
 }
 .footer3{
@@ -343,10 +343,18 @@ body{
 }
 .footer5{
 	width:95%;
-	height: 210px;
+	height: 200px;
 	margin-top: 10px;
 	border-radius: 2px;
 	border: none;
 	padding-left: 10px;
+}
+.footer6{
+	font-size: 90%;
+	text-align: center;
+	color:white;
+}
+.footer6 hr{
+	color: white;
 }
 /*footer end*/
