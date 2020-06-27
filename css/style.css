@@ -27,7 +27,7 @@ body{
 	float: right;
 }
 .menu a{
-	font-size:20px;
+	font-size:18px;
 	font-weight:700;
 	color:white;
 	text-decoration:none;
@@ -62,7 +62,7 @@ body{
 /*Header end*/
 /*develop start*/
 .develop{
-	width:65%;
+	width:70%;
 	float:left;
 }
 .develop h1{
@@ -75,9 +75,9 @@ body{
 	font-size:18px;
 }
 .develop1{
-	width:30%;
+	width:25%;
 	float:right;
-	margin-top:75px;
+	margin-top:60px;
 }
 .develop1 img{
 	width:100%;
@@ -90,7 +90,7 @@ body{
 .branding{
 	width:30%;
 	float:left;
-	margin-top:75px;
+	margin-top:60px;
 }
 .branding img{
 	width:100%;
@@ -159,7 +159,7 @@ body{
 	font-weight:normal;
 }
 .comment p{
-	font-size:18px;
+	font-size:100%;
 	margin-top:0;
 	margin-bottom: 40px;
 }
@@ -259,7 +259,7 @@ body{
 	font-weight:normal;
 }
 .team0 p{
-	font-size:18px;
+	font-size:100%;
 	margin-top:0;
 	margin-bottom:40px;
 }
@@ -324,7 +324,7 @@ body{
 }
 .footer2 i{
 	width: 50%;
-	font-size: 100%;
+	font-size: 90%;
 	margin:10px 0;
 	float: left;
 }
